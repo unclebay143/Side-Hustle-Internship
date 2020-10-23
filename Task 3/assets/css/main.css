@@ -19,7 +19,10 @@ body{
 
 
 /* page style */
-
+#body a{
+  text-decoration: underline;
+  font-style: italic;
+}
 
 /* header */
 
