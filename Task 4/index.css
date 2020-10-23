@@ -108,9 +108,14 @@ a{
     display: none;
   }
 
+  #anime-man{
+    right: 16rem;
+  }
+
   .container .message p{
     font-size: 2rem;
     text-align: center;
+    position: static;
   }
 
 }
